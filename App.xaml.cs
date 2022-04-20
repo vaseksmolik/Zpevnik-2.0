@@ -6,10 +6,10 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows;
 
-namespace Zpevnik_2_0
+namespace ZpevnikEditor
 {
     /// <summary>
-    /// Interaction logic for App.xaml
+    /// Interakční logika pro App.xaml
     /// </summary>
     public partial class App : Application
     {

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30717.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZpevnikEditor", "ZpevnikEditor.csproj", "{5F88B3DE-502C-4762-9474-373FF0EBBC51}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zpevnik_2-0", "..\Zpevnik_2-0\Zpevnik_2-0.csproj", "{5184EEE9-2854-446D-BC46-48548341963F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5F88B3DE-502C-4762-9474-373FF0EBBC51}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F88B3DE-502C-4762-9474-373FF0EBBC51}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F88B3DE-502C-4762-9474-373FF0EBBC51}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F88B3DE-502C-4762-9474-373FF0EBBC51}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5184EEE9-2854-446D-BC46-48548341963F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5184EEE9-2854-446D-BC46-48548341963F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5184EEE9-2854-446D-BC46-48548341963F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5184EEE9-2854-446D-BC46-48548341963F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D3E78C87-C0A6-430B-A357-2773E6053292}
+	EndGlobalSection
+EndGlobal
